@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+}
+
+h3{
+  color: red;
+}
+/* dot will be noted as class*/
+.test{
+  color: blueviolet;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.test2{
+  background-color: aqua;
+}
+
+/* External Style Sheet  Better way for usage in multiple placess */
